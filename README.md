@@ -3,4 +3,4 @@ This is a repository of codes shared during the class of cse 326 in k20sd in 202
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
